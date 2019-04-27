@@ -1,0 +1,11 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/jinzhu/gorm",
+			"revision": ""
+		}
+	],
+	"rootPath": "gorm_demo"
+}
