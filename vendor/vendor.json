@@ -3,8 +3,74 @@
 	"ignore": "test",
 	"package": [
 		{
-			"path": "github.com/jinzhu/gorm",
+			"path": "appengine/cloudsql",
 			"revision": ""
+		},
+		{
+			"checksumSHA1": "QEs5B10mZGtKgvsY9fSRAw3sS6U=",
+			"path": "github.com/go-redis/redis",
+			"revision": "97e6ed817821d91977b51fdec185ca2dbb917fa6",
+			"revisionTime": "2019-04-24T06:33:36Z"
+		},
+		{
+			"checksumSHA1": "tZJRl4B7hKoRe+nWAMA4JtsM7Kc=",
+			"path": "github.com/go-redis/redis/internal",
+			"revision": "97e6ed817821d91977b51fdec185ca2dbb917fa6",
+			"revisionTime": "2019-04-24T06:33:36Z"
+		},
+		{
+			"checksumSHA1": "GQZsUVg/+6UpQAYpc4luMvMutSI=",
+			"path": "github.com/go-redis/redis/internal/consistenthash",
+			"revision": "97e6ed817821d91977b51fdec185ca2dbb917fa6",
+			"revisionTime": "2019-04-24T06:33:36Z"
+		},
+		{
+			"checksumSHA1": "l66eTZiJqueypc56HXCakGDm784=",
+			"path": "github.com/go-redis/redis/internal/hashtag",
+			"revision": "97e6ed817821d91977b51fdec185ca2dbb917fa6",
+			"revisionTime": "2019-04-24T06:33:36Z"
+		},
+		{
+			"checksumSHA1": "25ynuVWFdZZBPIPldXs9zshCxm0=",
+			"path": "github.com/go-redis/redis/internal/pool",
+			"revision": "97e6ed817821d91977b51fdec185ca2dbb917fa6",
+			"revisionTime": "2019-04-24T06:33:36Z"
+		},
+		{
+			"checksumSHA1": "zCo0t+gRBbctwyIpkDLrqRFtXew=",
+			"path": "github.com/go-redis/redis/internal/proto",
+			"revision": "97e6ed817821d91977b51fdec185ca2dbb917fa6",
+			"revisionTime": "2019-04-24T06:33:36Z"
+		},
+		{
+			"checksumSHA1": "1PH2NoAB/u3IZmLYyCrIbOzqLZ4=",
+			"path": "github.com/go-redis/redis/internal/util",
+			"revision": "97e6ed817821d91977b51fdec185ca2dbb917fa6",
+			"revisionTime": "2019-04-24T06:33:36Z"
+		},
+		{
+			"checksumSHA1": "xWc9p5Kq5cQbDIwbXHdc9v8sdMU=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "d0a548181995c293eb09c61ef80099ba1cdbe8f5",
+			"revisionTime": "2019-04-23T11:20:50Z"
+		},
+		{
+			"checksumSHA1": "cGQumTyZMk2jBu314CJ1MGFQ9DY=",
+			"path": "github.com/jinzhu/gorm",
+			"revision": "7bc35615034c1d6994088c2cc925086fba6f565e",
+			"revisionTime": "2019-04-14T13:11:29Z"
+		},
+		{
+			"checksumSHA1": "4eelJOSLZoDzLuaJvgilOBVNovU=",
+			"path": "github.com/jinzhu/inflection",
+			"revision": "04140366298a54a039076d798123ffa108fff46c",
+			"revisionTime": "2018-03-08T03:36:59Z"
+		},
+		{
+			"checksumSHA1": "LiyXfqOzaeQ8vgYZH3t2hUEdVTw=",
+			"path": "google.golang.org/appengine/cloudsql",
+			"revision": "54a98f90d1c46b7731eb8fb305d2a321c30ef610",
+			"revisionTime": "2019-02-15T20:43:44Z"
 		}
 	],
 	"rootPath": "gorm_demo"
